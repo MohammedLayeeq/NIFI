@@ -18,3 +18,5 @@ http://ftp.attunity.com.hk/~download/Replicate/6.2/AttunityReplicate_6_2_0_User_
 
 
 https://www.onlinefreecourse.net/cca-hadoop-spark-developer-practice-test-cca175-udemy-free-download/
+
+https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.5/bk_security/content/secure-kafka-produce-events.html
