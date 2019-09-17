@@ -1,0 +1,47 @@
+1)There are some lakhs of files spread across multiple servers which need to be processed. How will you do that using Hadoop?
+
+2)Have u worked on ScalaFx. then where you used scalafx, and why?
+
+3)how you are protecting your Data?
+
+4) What exactly DAGSchedular do?
+
+5)what is the diffrence between cache and persist ? which one you used mostly and why?
+
+6) what is the diffrence between datframe and datase?
+
+7) what are limitations of Spark SQl?
+
+8) Have you work on Spark Streming ?
+
+9)You have data lets table name Emloyee
+
+	  Employee
+Name			Salary
+Layeeq		    550000
+Alam 			800000	
+Vamshi			850000
+krishna		    450000
+.....			.....	  so on 
+
+Write a select Query , output should be in below format
+
+Name              NAme_of_a_person_in_column(1)_whose_salary_directlessto_Cloumn(1)
+Layeeq            Krishna
+Alam              Layeeq
+Vamshi            Alam
+krishna	          ............
+... 	  .....  so on
+
+
+10)does Hadoop repalce RDBMS? what is your openian  
+
+11)RDD and PRDD diffrence?
+
+12)do you know HBASE?
+
+13)diff between Map, Flatmap, Flatten.
+
+14)Write any Case Class Program 
+
+15) some more questions on Hive and Yarn not remember guys 
